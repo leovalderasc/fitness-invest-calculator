@@ -28,3 +28,4 @@ resultado = capital * ((1 + tasa) ** meses)
 
 print(f"\nValor futuro estimado: {round(resultado,2)}")
 print("\nGracias por usar el sistema 🚀")
+print("Nueva versión funcionando")
